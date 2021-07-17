@@ -178,3 +178,14 @@ a:hover, a:active, a:focus { /* このセレクターグループは、キーボ
 .list_main li{
   margin: 20px 0;
 }
+.box8 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #232323;
+    background: #fff8e8;
+    border-left: solid 10px #ff8d40;;
+}
+.box8 p {
+    margin: 0; 
+    padding: 0;
+}
