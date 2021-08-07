@@ -45,10 +45,12 @@ a:hover, a:active, a:focus { /* このセレクターグループは、キーボ
 
 /* ~~ ヘッダーには幅は指定されません。ヘッダーはレイアウトの幅全体まで広がります。ヘッダーには、ユーザー独自のリンクされたロゴに置き換えられるイメージプレースホルダーが含まれます。~~ */
 .header {
-	background-color: #97e141; /* #00199D; #99CCFF lower part of header */
-	font-family: Helvetica, "ヒラギノ角ゴ ProN W3", Arial, sans-serif;
-	font-size: x-large;
-	color: #FFF;
+	background-color: #FFFFFF; /* #00199D; #99CCFF lower part of header */
+	font-family: Hannotate SC, Arial, sans-serif;
+	font-size: 300%;
+	/*font-size: xx-large;*/
+   font-weight: bolder;
+	color: #ffa366;
 	text-decoration: none;
 	padding-top: 0px;
 	padding-right: 0px;
@@ -140,10 +142,10 @@ a:hover, a:active, a:focus { /* このセレクターグループは、キーボ
 	display: inline;
 }
 .navbar a {
-	color: #000044;
+	color: #FFFFFF;
 	text-decoration: none;
 	padding: 8px 20px;
-	background-color: #f6ce75;  /* tabs on header */
+	background-color: #8cd98c;  /* tabs on header */
 }
 .navbar a:visited {
 	color: #000044;
