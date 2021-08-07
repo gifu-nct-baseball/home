@@ -46,8 +46,10 @@ a:hover, a:active, a:focus { /* このセレクターグループは、キーボ
 /* ~~ ヘッダーには幅は指定されません。ヘッダーはレイアウトの幅全体まで広がります。ヘッダーには、ユーザー独自のリンクされたロゴに置き換えられるイメージプレースホルダーが含まれます。~~ */
 .header {
 	background-color: #FFFFFF; /* #00199D; #99CCFF lower part of header */
-	font-family: "游ゴシック体", YuGothic;
-	font-size: 300%;
+   font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
+   /*font-family: "游ゴシック体", YuGothic;*/
+	font-family: "Hiragino Sans", Meiryo, sans-serif;
+   font-size: 250%;
 	/*font-size: xx-large;*/
    font-weight: bolder;
 	color: #ffa366;
