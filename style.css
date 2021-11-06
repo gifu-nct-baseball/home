@@ -193,7 +193,17 @@ a:hover, a:active, a:focus { /* このセレクターグループは、キーボ
     margin: 0; 
     padding: 0;
 }
-
+.box9 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #232323;
+    background: #dcdcdc;
+    border-left: solid 10px #808080;;
+}
+.box9 p {
+    margin: 0; 
+    padding: 0;
+}
 .insta_list{
     display: flex;
     flex-wrap: wrap;
