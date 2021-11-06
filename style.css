@@ -204,6 +204,18 @@ a:hover, a:active, a:focus { /* このセレクターグループは、キーボ
     margin: 0; 
     padding: 0;
 }
+.box10 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #232323;
+    background: #ebf8eb;
+    border-left: solid 10px #8cd98c;;
+}
+.box10 p {
+    margin: 0; 
+    padding: 0;
+}
+
 .insta_list{
     display: flex;
     flex-wrap: wrap;
